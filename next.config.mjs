@@ -1,4 +1,4 @@
-import { m } from 'framer-motion'
+
 
 
 /** @type {import('next').NextConfig} */
