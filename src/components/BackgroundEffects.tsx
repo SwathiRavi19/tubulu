@@ -3,7 +3,7 @@
 import { useRef } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { Points, PointMaterial } from "@react-three/drei";
-import * as random from "mathjs"; // We can just use Math.random instead of a library to save deps
+// We can just use Math.random instead of a library to save deps
 // Actually, let's write a simple random sphere generator
 
 function StarField(props: any) {
